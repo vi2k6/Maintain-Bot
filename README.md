@@ -27,4 +27,17 @@ Press the below button to Fast deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivek-tp/Maintenance-Bot)
 
-then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
+then goto the <a href="#vars">variables tab</a> for more info on setting up environmental variables.
+
+
+### Vars
+
+`APP_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+
+`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+
+`UPDATE_CHANNEL` : Your Telegram Channel Link
+
+`SUPPORT_GROUP` : Your Telegram Support Group Link
