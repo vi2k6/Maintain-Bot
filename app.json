@@ -1,6 +1,7 @@
 {
     "name": "Mainten Bot",
     "description": "A Telegram Repo For Devs To Controll The Bots Are Under Maintenance",
+    "logo": "https://telegra.ph/file/f854d5d729d3166d0c89e.jpg",
     "repository": "https://github.com/vivek-tp/Mainten-Bot",
     "keywords": [
         "telegram",
