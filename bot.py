@@ -8,7 +8,9 @@ Bot = Client(
         "Maintenance Bot",
         bot_token = os.environ["BOT_TOKEN"],
         api_id = int(os.environ["API_ID"]),
-        api_hash = os.environ["API_HASH"]
+        api_hash = os.environ["API_HASH"],
+        updates_Channel = os.environ["UPDATES_CHANNEL"],
+        support_chat = os.environ["SUPPORT_CHAT"]
 )
 
 BOT_TEXT = """
