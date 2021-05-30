@@ -38,6 +38,6 @@
 
 **`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)**
 
-**`UPDATE_CHANNEL` : Your Telegram Channel Link**
+**`UPDATE_CHANNEL` : Your Telegram Channel Username Without @**
 
-**`SUPPORT_CHAT` : Your Telegram Support Group Link**
+**`SUPPORT_CHAT` : Your Telegram Support Group Username Without @**
