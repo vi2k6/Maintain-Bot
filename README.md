@@ -9,7 +9,6 @@
   <p align="center">
     <b>A Telegram Repo For Devs To Controll The Bots Under Maintenance</b>
     <br />
-    <a
 
 ### About This Bot
 
