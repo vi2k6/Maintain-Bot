@@ -1,1 +1,33 @@
 {
+    "name": "Mainten Bot",
+    "description": "A Telegram Repo For Devs To Controll The Bots Are Under Maintenance",
+    "repository": "https://github.com/vivek-tp/Mainten-Bot",
+    "keywords": [
+        "telegram",
+        "pyrogram",
+        "maintenance",
+        "bot"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token from @Botfather"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "Updates Channel Username Without @"
+        },
+        "SUPPORT_CHAT": {
+            "description": "Support Chat Username Without @"
+        },
+        "API_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
