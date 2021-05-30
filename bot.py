@@ -13,12 +13,10 @@ Bot = Client(
         suppchat = os.environ("SUPPORT_CHAT"]
 )
 
->>>>>>>>>>>>>>>>>> MESSAGES <<<<<<<<<<<<<<<<<<<<<<<<<<
-
 START_TEXT = """
 Hai {} , This Bot Is Under Maintenance.
 
-You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If This Bot Is Ready To Work.
+You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If This Bot Is Ready To Work.To Know More Contact Support Group:)
 
 ℹ️ Maintenance Bot.
 """
