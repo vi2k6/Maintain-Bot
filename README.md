@@ -7,6 +7,6 @@
 </p>
 </a>
   <p align="center">
-    **A Telegram Repo For Devs To Controll The Bots Under Maintenance**
+    <b>A Telegram Repo For Devs To Controll The Bots Under Maintenance</b>
     <br />
     <a 
