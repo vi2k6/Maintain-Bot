@@ -12,9 +12,7 @@
 
 ### About This Bot
 
-<p align='center'>
-    This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
-</p>
+This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
 
 ### How to make your own
 
