@@ -49,5 +49,6 @@
 
 Check This [Click Here](#about-this-bot)
 
-### To Be Added:
+### Features : To Be Added
+
 - Added Broadcast Feature!
