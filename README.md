@@ -41,3 +41,13 @@
 **`UPDATE_CHANNEL` : Your Telegram Channel Username Without @**
 
 **`SUPPORT_CHAT` : Your Telegram Support Group Username Without @**
+
+
+### How To Use The Bot
+
+`/start` : To check if the bot is alive or not.
+
+Check This [Click Here](#about-this-bot)
+
+## To Be Added:
+- Added Broadcast Feature!
