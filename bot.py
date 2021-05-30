@@ -23,8 +23,8 @@ You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel') url='https://telegram.me/updates_Channel'),
-        InlineKeyboardButton('Support') url='https://t.me/support_chat')
+        InlineKeyboardButton('Channel') url='https://telegram.me/{updates_Channel}'),
+        InlineKeyboardButton('Support') url='https://t.me/{support_chat}')
         ]]
     )
                 
