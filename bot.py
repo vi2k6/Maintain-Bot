@@ -8,9 +8,7 @@ Bot = Client(
         "Maintenance Bot",
         bot_token = os.environ["BOT_TOKEN"],
         api_id = int(os.environ["API_ID"]),
-        api_hash = os.environ["API_HASH"],
-        updates_Channel = os.environ["UPDATES_CHANNEL"],
-        support_chat = os.environ["SUPPORT_CHAT"]
+        api_hash = os.environ["API_HASH"]
 )
 
 START_TEXT = """
@@ -23,15 +21,15 @@ You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel') url='https://telegram.me/{updates_Channel}'),
-        InlineKeyboardButton('Support') url='https://t.me/{support_chat}')
+        InlineKeyboardButton('Channel' url=f'https://telegram.me/{updates_Channel}'),
+        InlineKeyboardButton('Support' url=f'https://t.me/{support_chat}')
         ]]
     )
                 
 @Bot.on_message(filters.private & filters.text)
 async def text(bot,update):
     text = START_TEXT.format(update.from_user.mention)
-    replay_markup = START_BUTTONS
+    reply_markup = START_BUTTONS
     await update.replay_text(
         text=text,
         disable_web_page_preview=true,
