@@ -1,9 +1,5 @@
 # Maintenance Bot
 
-<p align="center">
-  <alt src="Maintenance Bot">
-</p>
-
 ##### A Simple Telegram Bot To Controll A Maintained Bot.
 
 <p align="center">
