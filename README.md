@@ -9,4 +9,22 @@
   <p align="center">
     <b>A Telegram Repo For Devs To Controll The Bots Under Maintenance</b>
     <br />
-    <a 
+    <a
+
+### About This Bot
+
+<p align='center'>
+    This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
+</p>
+
+### How to make your own
+
+Either you could locally host or deploy on [Heroku](https://heroku.com)
+
+### Deploy on Heroku
+
+Press the below button to Fast deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivek-tp/Maintenance-Bot)
+
+then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
