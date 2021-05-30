@@ -3,6 +3,7 @@ import time
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from sample_config import config
 
 Bot = Client(
         "Maintenance Bot",
@@ -10,3 +11,33 @@ Bot = Client(
         api_id = int(os.environ["API_ID"]),
         api_hash = os.environ["API_HASH"]
 )
+
+>>>>>>>>>>>>>>>>>> MESSAGES <<<<<<<<<<<<<<<<<<<<<<<<<<
+
+START_TEXT = """
+Hai {} , This Bot Is Under Maintenance.
+
+You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If This Bot Is Ready To Work.
+
+ℹ️ Maintenance Bot.
+"""
+
+START_BUTTONS = InlineKeyboardMarkup(
+        [[
+        InlineKeyboardButton('Channel') url='https://telegram.me/congig.UPDATES_CHANEL'),
+        InlineKeyboardButton('Support') url='https://t.me/config.support_chat')
+        ]]
+    )
+                
+@Bot.on_message(filters.private & filters.text)
+async def text(bot,update):
+    text = START_TEXT.format(update.from_user.mention)
+    replay_markup = START_BUTTONS
+    await update.replay_text(
+        text=text,
+        disable_web_page_preview=true,
+        reply_markup=reply_markup
+    )
+
+
+Bot.run()
