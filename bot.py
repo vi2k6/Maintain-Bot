@@ -1,5 +1,3 @@
-import date
-import time
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
