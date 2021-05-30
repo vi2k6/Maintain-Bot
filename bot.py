@@ -9,9 +9,9 @@ Bot = Client(
         bot_token = os.environ["BOT_TOKEN"],
         api_id = int(os.environ["API_ID"]),
         api_hash = os.environ["API_HASH"],
+        updates_Channel = os.environ["UPDATES_CHANNEL"],
+        support_chat = os.environ["SUPPORT_CHAT"]
 )
-
-suppchat = "{}".format(os.environ["SUPPORT_CHAT"))
 
 START_TEXT = """
 Hai {} , This Bot Is Under Maintenance.
@@ -23,8 +23,8 @@ You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel') url='https://telegram.me/suppchat'),
-        InlineKeyboardButton('Support') url='https://t.me/upchl')
+        InlineKeyboardButton('Channel') url='https://telegram.me/updates_Channel'),
+        InlineKeyboardButton('Support') url='https://t.me/support_chat')
         ]]
     )
                 
