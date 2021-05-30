@@ -9,7 +9,9 @@ Bot = Client(
         "Maintenance Bot",
         bot_token = os.environ["BOT_TOKEN"],
         api_id = int(os.environ["API_ID"]),
-        api_hash = os.environ["API_HASH"]
+        api_hash = os.environ["API_HASH"]),
+        upchl = os.environ("UPDATES_CHNNEL]),
+        suppchat = os.environ("SUPPORT_CHAT"]
 )
 
 >>>>>>>>>>>>>>>>>> MESSAGES <<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -24,8 +26,8 @@ You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel') url='https://telegram.me/congig.UPDATES_CHANEL'),
-        InlineKeyboardButton('Support') url='https://t.me/config.support_chat')
+        InlineKeyboardButton('Channel') url='https://telegram.me/suppchat'),
+        InlineKeyboardButton('Support') url='https://t.me/upchl')
         ]]
     )
                 
