@@ -11,7 +11,7 @@ Bot = Client(
         api_hash = os.environ["API_HASH"]
 )
 
-START_TEXT = """
+BOT_TEXT = """
 Hai {} , This Bot Is Under Maintenance.
 
 You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If This Bot Is Ready To Work.To Know More Contact Support Group:)
@@ -19,7 +19,7 @@ You Can't Use This Bot Right Now.You Will Get a Message On This Bot's Channel If
 ℹ️ Maintenance Bot.
 """
 
-START_BUTTONS = InlineKeyboardMarkup(
+BOT_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Channel' url=f'https://telegram.me/{updates_Channel}'),
         InlineKeyboardButton('Support' url=f'https://t.me/{support_chat}')
@@ -28,8 +28,8 @@ START_BUTTONS = InlineKeyboardMarkup(
                 
 @Bot.on_message(filters.private & filters.text)
 async def text(bot,update):
-    text = START_TEXT.format(update.from_user.mention)
-    reply_markup = START_BUTTONS
+    text = BOT_TEXT.format(update.from_user.mention)
+    reply_markup = BOT_BUTTONS
     await update.replay_text(
         text=text,
         disable_web_page_preview=true,
