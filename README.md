@@ -19,25 +19,25 @@
 
 ### How to make your own
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+**Either you could locally host or deploy on [Heroku](https://heroku.com)**
 
 ### Deploy on Heroku
 
-Press the below button to Fast deploy on Heroku
+**Press the below button to Fast deploy on Heroku**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivek-tp/Maintenance-Bot)
 
-then goto the <a href="#vars">variables tab</a> for more info on setting up environmental variables.
+**Then goto the <a href="#vars">variables tab</a> for more info on setting up environmental variables.**
 
 
 ### Vars
 
-`APP_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+**`APP_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+**`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+**`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)**
 
-`UPDATE_CHANNEL` : Your Telegram Channel Link
+**`UPDATE_CHANNEL` : Your Telegram Channel Link**
 
-`SUPPORT_GROUP` : Your Telegram Support Group Link
+**`SUPPORT_CHAT` : Your Telegram Support Group Link**
