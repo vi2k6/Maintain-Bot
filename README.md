@@ -45,9 +45,7 @@
 
 ### How To Use The Bot
 
-`/start` : To check if the bot is alive or not.
-
-Check This [Click Here](#about-this-bot)
+`/start` (Not Only Command Any Text) : To check if the bot is alive or not.
 
 ### Features : To Be Added
 
