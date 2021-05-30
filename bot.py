@@ -3,7 +3,6 @@ import time
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from sample_config import config
 
 Bot = Client(
         "Maintenance Bot",
