@@ -37,9 +37,13 @@ Deploy Your Bot Repo + This Repo At One Time.
 If Your Bot Under Maintenance Enable Other ProcFile...Got it? Know More Here 👇🏻...
 
 **1.** Download A File From [Here](https://github.com/vivek-tp/Maintain-Bot/releases/download/Main/Maintain.py) .
+
 **2.** Upload `maintain.py` File Your Repo.
+
 **3.** Add Two Vaules On app.json as `UPDATES_CHANNEL` And `SUPPORT_CHAT` .
+
 **4.** Open Procfile And  worker: python3 maintain.py IN Second Line.
+
 **5.** Done!!!
 
 **An Example Repo :** [HERE](https://github.com/WREPOS/gil)
