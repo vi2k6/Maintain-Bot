@@ -45,7 +45,7 @@ SUPPORT_CHAT - Your Support Chat Username Without @
 
 ### Deploy on Heroku
 
-Press the below button to Fast deploy on Heroku**
+Press the below button to Fast deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivek-tp/Maintenance-Bot)
 
