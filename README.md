@@ -16,29 +16,7 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 
 ### How to make your own
 
-**Either you could locally host or deploy on [Heroku](https://heroku.com)**
-
-### Deploy on Heroku
-
-**Press the below button to Fast deploy on Heroku**
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivek-tp/Maintenance-Bot)
-
-**Then goto the <a href="#vars">variables tab</a> for more info on setting up environmental variables.**
-
-
-### Vars
-
-**`APP_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
-
-**`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
-
-**`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)**
-
-**`UPDATE_CHANNEL` : Your Telegram Channel Username Without @**
-
-**`SUPPORT_CHAT` : Your Telegram Support Group Username Without @**
-
+Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### How To Use The Bot
 
@@ -47,3 +25,48 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 ### Features : To Be Added
 
 - Added Broadcast Feature!
+
+
+## Getting Started
+
+Clone the Repo
+```
+git clone https://github.com/vivek-tp/Maintain-Bot
+```
+
+### Deploy on Heroku
+
+Press the below button to Fast deploy on Heroku**
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivek-tp/Maintenance-Bot)
+
+Then goto the <a href="#vars">variables tab</a> for more info on setting up environmental variables.
+
+
+### Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Add Your Values
+3. Deploy It
+
+### Vars
+
+`APP_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+
+`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+
+`UPDATE_CHANNEL` : Your Telegram Channel Username Without @
+
+`SUPPORT_CHAT` : Your Telegram Support Group Username Without @
+
+### License
+
+Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
+
+### About US
+
+UpStats is developed by [Vivek](https://gitHub.com/Vivek-TP)
