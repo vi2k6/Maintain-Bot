@@ -6,10 +6,11 @@ Bot = Client(
         "Maintenance Bot",
         bot_token = os.environ["BOT_TOKEN"],
         api_id = int(os.environ["API_ID"]),
-        api_hash = os.environ["API_HASH"],
-        updatesc = os.environ["UPDATES_CHANNEL"],
-        supportc = os.environ["SUPPORT_CHAT"]
+        api_hash = os.environ["API_HASH"]
 )
+
+updatesc = os.environ["UPDATES_CHANNEL"],
+supportc = os.environ["SUPPORT_CHAT"]
 
 BOT_TEXT = """
 Hai {} , This Bot Is Under Maintenance.
