@@ -32,7 +32,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### One Time Deploy
 
-Deploy Your Bot Repo + This Repo At One Time.
+**Deploy Your Bot Repo + This Repo At One Time.**
 
 If Your Bot Under Maintenance Enable Other ProcFile...Got it? Know More Here 👇🏻...
 
