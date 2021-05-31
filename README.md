@@ -69,4 +69,4 @@ Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
 
 ### About US
 
-UpStats is developed by [Vivek](https://gitHub.com/Vivek-TP)
+This is developed by [Vivek](https://gitHub.com/Vivek-TP)
