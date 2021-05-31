@@ -28,7 +28,13 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Features : To Be Added
 
-- Added Broadcast Feature!
+- Added Broadcast Feature!!!
+
+### One Time Deploy
+
+Deploy Your Bot Repo + This Repo At One Time.
+
+If Your Bot In Maintenance Enable Other ProcFile...Got it? Know More <a href="#vars">Here</a> ...
 
 
 ## Getting Started On VPS
