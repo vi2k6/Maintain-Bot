@@ -78,4 +78,4 @@ Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
 
 ### About US
 
-This is developed by [Vivek](https://gitHub.com/Vivek-TP) And [Fayas](https://github.com/FayasNoushad) As Helper
+This is developed by [Vivek](https://gitHub.com/Vivek-TP) And [Fayas](https://github.com/FayasNoushad) As Helper.
