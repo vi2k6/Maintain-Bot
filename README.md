@@ -27,12 +27,21 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 - Added Broadcast Feature!
 
 
-## Getting Started
+## Getting Started On VPS
 
-Clone the Repo
+1. Clone the Repo
 ```
 git clone https://github.com/vivek-tp/Maintain-Bot
 ```
+2. Replace Values with your Details
+```
+APP_ID - Get from My.Telegram.Org
+API_HASH - Get from My.Telegram.Org
+BOT_TOKEN - From @BotFather
+UPDATE_CHANNEL - Your Channel Username Without @
+SUPPORT_CHAT - Your Support Chat Username Without @
+```
+3. Deploy It
 
 ### Deploy on Heroku
 
