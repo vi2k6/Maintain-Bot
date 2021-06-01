@@ -18,13 +18,10 @@
 
 This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
 
-### How to make your own
-
-Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### How To Use The Bot
 
-`/start` (Not Only Command Any Text) : To check if the bot is alive or not.
+`Any Command Or Text` : To check if the bot is alive or not.
 
 ### Features : To Be Added
 
@@ -65,6 +62,10 @@ UPDATE_CHANNEL - Your Channel Username Without @
 SUPPORT_CHAT - Your Support Chat Username Without @
 ```
 3. Deploy It
+
+### How to make your own
+
+Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Deploy on Heroku
 
