@@ -38,7 +38,7 @@ If Your Bot Under Maintenance Enable Other ProcFile...Got it? Know More Here ðŸ‘
 
 **1.** Download A File From [Here](https://github.com/vivek-tp/Maintain-Bot/releases/download/Main/Maintain.py) .
 
-**2.** Upload `maintain.py` File Your Repo.
+**2.** Upload `maintain.py File To Your Repo.
 
 **3.** Add Two Vaules On app.json as `UPDATES_CHANNEL` And `SUPPORT_CHAT` .
 
