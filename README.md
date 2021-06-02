@@ -43,7 +43,7 @@ If Your Bot Under Maintenance Enable Other ProcFile...Got it? Know More Here ðŸ‘
 
 **5.** Done!!!
 
-**An Example Repo :** [HERE](https://github.com/WREPOS/gil)
+**An Example Repo :** [HERE](https://github.com/search?q=repo)
 
 If you do not understand Contact [Support Group](https://t.me/OpensourceTG)
 
