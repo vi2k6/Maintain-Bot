@@ -1,9 +1,9 @@
 ---
-name: Issues Of This Repo
+name: Issue Of This Repo
 about: Sent Here Your Issue With This Repo.
-title: ''
-labels: ''
-assignees: ''
+title: 'test'
+labels: 'test'
+assignees: 'test'
 
 ---
 
