@@ -33,7 +33,7 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 
 If Your Bot Under Maintenance Enable Other ProcFile...Got it? Know More Here 👇🏻...
 
-**1.** Download A File From [Here](https://github.com/vivek-tp/Maintain-Bot/releases/download/Main/Maintain.py) .
+**1.** Download A File From [Here](https://github.com/vivek-tp/Maintain-Bot/releases/download/v1.0/Maintain.py) .
 
 **2.** Upload `maintain.py File To Your Repo.
 
