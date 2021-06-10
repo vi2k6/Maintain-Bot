@@ -35,6 +35,7 @@ async def start(bot, update):
     await update.reply_text(
         text=text, disable_web_page_preview=True, reply_markup=reply_markup
     )
+    logger.info(f"{m.from_user.first_name} started The Bot!!!")
 
 print("Bot has started.")
 bot.run()
