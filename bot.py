@@ -37,5 +37,7 @@ async def start(bot, update):
     )
     logger.info(f"{m.from_user.first_name} started The Bot!!!")
 
+# You Can See That Who Is Started The Bot On Logs
+
 print("Bot has started.")
 bot.run()
