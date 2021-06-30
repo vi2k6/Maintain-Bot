@@ -1,4 +1,5 @@
 import os
+import logging
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
@@ -40,6 +41,5 @@ async def start(bot, update):
 
 # You Can See That Who Is Started The Bot On Logs
 
-bot.run()
 logging.info("Started the bot.")
-idle()
+bot.run()
