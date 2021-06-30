@@ -41,5 +41,5 @@ async def start(bot, update):
 # You Can See That Who Is Started The Bot On Logs
 
 bot.run()
-LOGGER.info("Bot is online.")
+logging.info("Started the bot.")
 idle()
