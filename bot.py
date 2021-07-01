@@ -1,5 +1,4 @@
 import os
-import logger
 import logging
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
