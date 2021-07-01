@@ -35,7 +35,6 @@ async def start(bot, update):
     reply_markup = BOT_BUTTONS
     await update. message.reply_photo(photo="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg")
     await update.message.reply( text=text, disable_web_page_preview=True, reply_markup=reply_markup )
-        text=text, disable_web_page_preview=True, reply_markup=reply_markup
     )
     logger.info(f"{m.from_user.first_name} started The Bot!!!")
 
