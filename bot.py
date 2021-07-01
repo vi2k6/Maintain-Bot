@@ -33,7 +33,7 @@ BOT_BUTTONS = InlineKeyboardMarkup(
 async def start(client, message):
     text = BOT_TEXT.format(message.from_user.mention)
     reply_markup = BOT_BUTTONS
-    await message.reply_photo(photo="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg", text=text, disable_web_page_preview=True, reply_markup=reply_markup )
+    await message.reply_photo(photo="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg", text=text, disable_web_page_preview=True, reply_markup=reply_markup)
 
 # You Can See That Who Is Started The Bot On Logs
 
