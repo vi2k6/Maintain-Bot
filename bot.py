@@ -1,4 +1,5 @@
 import os
+import logger
 import logging
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
@@ -31,7 +32,7 @@ BOT_BUTTONS = InlineKeyboardMarkup(
 
 @bot.on_message(filters.private & filters.text)
 async def start(client, message):
-    reply_markup = BOT_BUTTONS
+    reply_markup = BOT_BUTTONS,
     text = BOT_TEXT
     await message.reply_photo(photo="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg")
     await message.reply_text(text=text, disable_web_page_preview=True, reply_markup=reply_markup).logger.info(f"{m.from_user.first_name} started The Bot!!!")
