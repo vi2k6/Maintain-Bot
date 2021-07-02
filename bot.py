@@ -36,10 +36,9 @@ async def start(bot, update):
     await update.reply_text(
         text=text, disable_web_page_preview=True, reply_markup=reply_markup
     )
-    logging.info(f"{update.from_user.first_name} started The Bot!!!")
+    logging.info(f"{message.from_user.first_name} started The Bot!!!")
 
 # You Can See That Who Is Started The Bot On Logs
 
-bot.run()
 logging.info("Bot is online.")
-idle()
+bot.run()
