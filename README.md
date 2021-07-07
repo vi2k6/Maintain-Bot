@@ -11,10 +11,10 @@
     <br />
 
 <p align="center">
-<a href="#"><img title="Maintain Bot" src="https://img.shields.io/badge/Maintain-Bot-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Maintain Bot" src="https://img.shields.io/badge/MaintainBot-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/VIVEK-TP"><img title="Author" src="https://img.shields.io/badge/Author-Vivek-Tp/Vivek?color=red&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VIVEK-TP"><img title="Author" src="https://img.shields.io/badge/Author-Vivek-Tp/Vivek?color=black&style=for-the-badge&logo=github"></a>
 </p>
 
 ### About This Bot
