@@ -2,6 +2,11 @@
 <p align="center">
   <a
 
+<a href="https://telegram.dog/FileStore_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/vivek-tp/Maintain-Bot)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Vivek_Kerala)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Vivek_Kerala)
+
 <p align="center">
   <img src="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg">
 </p>
@@ -16,11 +21,6 @@
   <p align="center">
 <a href="https://github.com/VIVEK-TP"><img title="Author" src="https://img.shields.io/badge/Author-Vivek-Tp/Vivek?color=black&style=for-the-badge&logo=github"></a>
 </p>
-
-<a href="https://telegram.dog/FileStore_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/vivek-tp/Maintain-Bot)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Vivek_Kerala)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Vivek_Kerala)
 
 ### About This Bot
 
