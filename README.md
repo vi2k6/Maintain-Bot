@@ -12,9 +12,6 @@
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Vivek_Kerala)
 
 <p align="center">
-<a href="#"><img title="Maintain Bot" src="https://img.shields.io/badge/MaintainBot-violet?color=8F00FF&style=for-the-badge"></a>
-</p>
-  <p align="center">
 <a href="https://github.com/VIVEK-TP"><img title="Author" src="https://img.shields.io/badge/Author-Vivek-Tp/Vivek?color=black&style=for-the-badge&logo=github"></a>
 </p>
 
