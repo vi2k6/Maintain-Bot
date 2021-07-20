@@ -28,9 +28,12 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 
 `Any Command Or Text` : To check if the bot is alive or not.
 
-### Features : To Be Added
+### Todos
 
-- Added Broadcast Feature!!!
+- [x] Contributions
+- [ ] BroadCast Feature
+- [x] Smooth Messages
+
 
 ### One Time Deploy
 
