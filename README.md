@@ -32,14 +32,8 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 ```
 git clone https://github.com/vivek-tp/Maintain-Bot
 ```
-2. Replace Values with your Details
-```
-APP_ID - Get from My.Telegram.Org
-API_HASH - Get from My.Telegram.Org
-BOT_TOKEN - From @BotFather
-UPDATE_CHANNEL - Your Channel Username Without @
-SUPPORT_CHAT - Your Support Chat Username Without @
-```
+2. Replace Values On `Config.py` With your Details
+
 3. Deploy It
 
 ### How to make your own
