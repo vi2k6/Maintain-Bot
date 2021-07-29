@@ -73,6 +73,8 @@ SUPPORT_CHAT - Your Support Chat Username Without @
 
 ### How to make your own
 
+Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
+
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Deploy on Heroku
