@@ -73,6 +73,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
 
-### About US
+### Developers & Helpers
 
 This is developed by [Vivek](https://gitHub.com/Vivek-TP). [Fayas](https://github.com/FayasNoushad) & [AlenPaulVarghese](https://github.com/alenpaul2001) As Helpers.
