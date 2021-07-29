@@ -11,10 +11,6 @@
   <b>A Telegram Repo For Devs To Controll The Bots Under Maintenance</b>
   <br />
 
-<p align="center">
-<a href="https://github.com/VIVEK-TP"><img title="Author" src="https://img.shields.io/badge/Author-Vivek-Tp/Vivek?color=black&style=for-the-badge&logo=github"></a>
-</p>
-
 ### About This Bot
 
 This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
