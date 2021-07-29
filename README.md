@@ -77,4 +77,4 @@ Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
 
 This is developed by [Vivek](https://gitHub.com/Vivek-TP).
 
-[Fayas](https://github.com/FayasNoushad), [AlenPaulVarghese](https://github.com/alenpaul2001), [Rabbit Fored](https://github.com/RabbitFored) & [Bot](https://github.com/XDToolsBot) As Helpers.
+[Fayas](https://github.com/FayasNoushad), [AlenPaulVarghese](https://github.com/alenpaul2001), [RabbitFored](https://github.com/RabbitFored) & [Bot](https://github.com/XDToolsBot) As Helpers.
