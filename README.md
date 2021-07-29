@@ -17,10 +17,6 @@
 
 ### About This Bot
 
-<p align="center">
-  <img src="https://telegra.ph/file/098e3e37d018743a7a407.jpg">
-</p>
-
 This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
 
 
