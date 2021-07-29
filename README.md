@@ -32,7 +32,7 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 ```
 git clone https://github.com/vivek-tp/Maintain-Bot
 ```
-2. Create '``Config.py``` File And Add Values With your Details
+2. Create ```Config.py``` File And Add Values With your Details
 
 3. Deploy It
 
