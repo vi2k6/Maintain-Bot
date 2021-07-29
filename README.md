@@ -40,8 +40,6 @@ git clone https://github.com/vivek-tp/Maintain-Bot
 
 Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
-
 ### Deploy on Heroku
 
 Press the below button to Fast deploy on Heroku
