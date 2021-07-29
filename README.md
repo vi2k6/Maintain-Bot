@@ -34,27 +34,6 @@ This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear
 - [ ] BroadCast Feature
 - [x] Smooth Messages
 
-
-### One Time Deploy
-
-**Deploy Your Bot Repo + This Repo At One Time.**
-
-If Your Bot Under Maintenance Enable Other ProcFile...Got it? Know More Here 👇🏻...
-
-**1.** Download A File From [Here](https://github.com/vivek-tp/Maintain-Bot/releases/download/v1.0/Maintain.py) .
-
-**2.** Upload `maintain.py File To Your Repo.
-
-**3.** Add Two Vaules On app.json as `UPDATES_CHANNEL` And `SUPPORT_CHAT` .
-
-**4.** Open Procfile And  worker: python3 maintain.py IN Second Line.
-
-**5.** Done!!!
-
-**An Example Repo :** [HERE](https://github.com/search?q=repo)
-
-If you do not understand Contact [Support Group](https://t.me/OpensourceTG)
-
 ## Getting Started On VPS
 
 1. Clone the Repo
