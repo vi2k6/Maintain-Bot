@@ -1,3 +1,6 @@
+# Made with Python3
+# (C) Vivek-TP and FayasNoushad
+
 import os
 import logging
 from pyrogram import Client, filters
