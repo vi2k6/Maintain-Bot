@@ -6,6 +6,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/vivek-tp/Maintain-Bot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Vivek_Kerala)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Vivek_Kerala)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/14e4b6f385a44aa9b35602e3ff52a668)](https://app.codacy.com/manual/vivek-tp/Maintain-Bot?utm_source=github.com&utm_medium=referral&utm_content=vivek-tp/Maintain-Bot&utm_campaign=Badge_Grade_Dashboard)
 
 <p align="center">
   <b>A Telegram Repo For Devs To Controll The Bots Under Maintenance</b>
