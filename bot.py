@@ -7,15 +7,6 @@ it under the terms of the GNU Affero General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 """
-<!--
-Visual Code Mobile
-Developed By Manish Nirmal
-App Available on Play Store :-
-https://play.google.com/store/apps/details?id=lk.visual.code.mobile
-YouTube :-
-https://youtube.com/ManishNirmal
--->
-
 # Made with Python3
 # (C) Vivek-TP and FayasNoushad
 
