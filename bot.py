@@ -15,7 +15,7 @@ import logging
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-bot = Client(
+Bot = Client(
     "Maintain-Bot",
     bot_token=os.environ["BOT_TOKEN"],
     api_id=int(os.environ["API_ID"]),
@@ -41,7 +41,7 @@ BOT_BUTTONS = InlineKeyboardMarkup(
 )
 
 
-@bot.on_message(filters.private)
+@Bot.on_message(filters.private)
 async def start(bot, update):
     text = BOT_TEXT.format(update.from_user.mention)
     reply_markup = BOT_BUTTONS
@@ -55,4 +55,4 @@ Bot Started!!! Now Join on @Vkprojects
 """
 )
 
-bot.run()
+Bot.run()
