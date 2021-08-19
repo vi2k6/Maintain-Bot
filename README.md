@@ -16,7 +16,6 @@
 
 This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
 
-
 ### How To Use The Bot
 
 `Any Command Or Text` : To check if the bot is alive or not.
@@ -79,3 +78,5 @@ Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
 This is developed by [Vivek](https://gitHub.com/Vivek-TP).
 
 And [Fayas](https://github.com/FayasNoushad), [AlenPaulVarghese](https://github.com/alenpaul2001), [RabbitFored](https://github.com/RabbitFored) & [Bot](https://github.com/XDToolsBot) As Helpers.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek-TP&repo=github-readme-stats)](https://github.com/Vivek-TP/Maintain-Bot)
