@@ -79,4 +79,4 @@ This is developed by [Vivek](https://gitHub.com/Vivek-TP).
 
 And [Fayas](https://github.com/FayasNoushad), [AlenPaulVarghese](https://github.com/alenpaul2001), [RabbitFored](https://github.com/RabbitFored) & [Bot](https://github.com/XDToolsBot) As Helpers.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek-TP&repo=github-readme-stats)](https://github.com/Vivek-TP/Maintain-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek-TP&repo=Maintain-Bot)](https://github.com/Vivek-TP/Maintain-Bot)
