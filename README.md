@@ -81,5 +81,5 @@ This is developed by [Vivek](https://gitHub.com/Vivek-TP).
 
 And [Fayas](https://github.com/FayasNoushad), [AlenPaulVarghese](https://github.com/alenpaul2001), [RabbitFored](https://github.com/RabbitFored) & [Bot](https://github.com/XDToolsBot) As Helpers.
 
-<--- Developers --->
+<!-- Developers -->
 @Vivek-Tp is the owner of this repository.
