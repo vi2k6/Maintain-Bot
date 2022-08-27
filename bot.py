@@ -21,6 +21,7 @@ Bot = Client(
 
 updatesc = os.environ["UPDATES_CHANNEL"]
 supportc = os.environ["SUPPORT_CHAT"]
+btname = os.environ["BOT_NAME"]
 
 BOT_TEXT = """
 Hai {} , This Bot Is Under Maintenance.
@@ -48,7 +49,7 @@ async def start(bot, update):
 
 print(
     """
-Bot Started!!! Now Join on @Vkprojects
+Bot Contributed To {btname} And Started Started!!!
 """
 )
 
