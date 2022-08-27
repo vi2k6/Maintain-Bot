@@ -19,6 +19,9 @@
         "SUPPORT_CHAT": {
             "description": "Support Chat Username Without @"
         },
+        "BOT_NAME": {
+            "description": "Your Bot's Name"
+        },
         "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps"
         },
