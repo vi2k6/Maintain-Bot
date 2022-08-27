@@ -75,7 +75,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GNU GPLV3 License. See `LICENSE` for more information.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek-TP&repo=Maintain-Bot)](https://github.com/Vivek-TP/Maintain-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2k6&repo=Maintain-Bot)](https://github.com/Vivek-TP/Maintain-Bot)
 
 ### Developers & Helpers
 
