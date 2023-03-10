@@ -39,13 +39,11 @@ BOT_BUTTONS = InlineKeyboardMarkup(
 )
 
 
-@Bot.on_message(filters.private)
-async def start(bot, update):
-    text = BOT_TEXT.format(update.from_user.mention)
-    reply_markup = BOT_BUTTONS
-    await update.reply_text(
-        text=text, disable_web_page_preview=True, reply_markup=reply_markup
-    )
+@Bot.on_message(filters.text)
+def handler(client, message):
+    reply = BOT_TEXT
+    markup = InlineKeyboardMarkup([[BOT_BUTTONS]])
+    message.reply_text(reply, reply_markup=markup)
 
 print(
     """
